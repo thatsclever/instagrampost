@@ -1,0 +1,48 @@
+body{
+    background: black;
+}
+.post{
+    background: white;
+    width: 500px;
+    margin: auto;
+}
+.header{
+    display: flex;
+}
+.icono1{
+    float: left;
+    display: flex;
+    font-size: 40px;
+    margin: 15px;
+}
+.texto-h{
+    width: 405px;
+}
+h3{
+    margin-bottom: 0%;
+    margin-top: 15px;
+}
+.icono2{
+   float: right; 
+   font-size: 40px;
+   margin: 15px;
+}
+.icono3{
+    display: flex;
+    padding: 5px;
+    float: left;
+}
+.fa-regular{
+    padding: 5px;
+    font-size: 30px;
+}
+.icono4{
+    padding: 5px;
+    float: right;
+}
+p{
+    margin: 5px;
+}
+.texto{
+    margin: 10px;
+}
